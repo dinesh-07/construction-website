@@ -410,6 +410,10 @@ footer {
   .left {
     height: auto;
     min-height: 65px;
+
+  }
+  #top {
+    font-size: 50px;
   }
 
   #right {
@@ -421,6 +425,7 @@ footer {
     margin: 0;
     float: left;
     width: 35%;
+    font-size: 20px;
   }
 
   h1 {
