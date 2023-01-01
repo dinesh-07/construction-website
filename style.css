@@ -33,6 +33,8 @@ body {
   padding-left: 20%;
   text-align: justify;
   box-sizing: border-box;
+  font-weight: bold;
+  letter-spacing: 3px;
 }
 
 .left li a {
@@ -464,4 +466,22 @@ footer {
   .paragraph {
     padding-right: 10%;
   }
+}
+
+.card-img-top {
+  height: 100px;
+  width: 100px;
+}
+
+.card-body {
+  text-align: center;
+  padding: 0;
+  color: #03738C;
+  margin-top: 5px;
+}
+
+
+
+.card:hover {
+  transform:scale(1.3,1.3);
 }
